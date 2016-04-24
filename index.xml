@@ -15,7 +15,8 @@
       <pubDate>Sun, 24 Apr 2016 15:21:06 +0200</pubDate>
       
       <guid>http://seiffert.github.io/post/good-morning-hugo/</guid>
-      <description>&lt;p&gt;This is a test to learn Hugo.&lt;/p&gt;
+      <description>&lt;p&gt;This is a test to learn Hugo.
+Which is automatically deployed via Travis.&lt;/p&gt;
 </description>
     </item>
     
